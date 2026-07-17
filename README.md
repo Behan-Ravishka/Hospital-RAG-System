@@ -57,3 +57,9 @@ Launch the Streamlit web interface:
 ```bash
 streamlit run app.py
 ```
+
+## screenshots
+![screeshot1](https://github.com/Behan-Ravishka/Hospital-RAG-System/blob/main/assets/screenshot1.png.jpg)
+![screeshot2](https://github.com/Behan-Ravishka/Hospital-RAG-System/blob/main/assets/screenshot2.png.jpg)
+![screeshot3](https://github.com/Behan-Ravishka/Hospital-RAG-System/blob/main/assets/screenshot3.png.jpg)
+![screeshot4](https://github.com/Behan-Ravishka/Hospital-RAG-System/blob/main/assets/screenshot4.png.jpg)
