@@ -32,13 +32,27 @@ ollama pull llama3.2:1b
 ollama serve
 ```
 
-2. Set Up the Environment
-Clone the repository and install the required Python packages:
+**2. Create a Virtual Environment**
+It is highly recommended to isolate the project dependencies using a virtual environment:
+
+For Windows:
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+For macOS/Linux:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+**3. Install Dependencies**
+Once your virtual environment is activated, install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the Application
+**4. Run the Application**
 Launch the Streamlit web interface:
 ```bash
 streamlit run app.py
